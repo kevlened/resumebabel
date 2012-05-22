@@ -45,4 +45,41 @@
 		 "description": "- Ensured tea wasn't consumed until cooled. Maximized number of billable hours by adding impurities to tea, thereby elevating the boiling point and increasing the tea's cooling time."
       }
    ]
+   "coursework":
+   [
+	  {
+         "name": "Database Management",
+		 "description": "- Basic SQL \n - Etc"
+	  },
+      {
+         "name": "Study Hall",
+		 "description": "- Maximized nightlife by sleeping during the day"
+	  }
+   ]
+   "achievements":
+   [
+	  {
+         "date": "July 2003",
+         "name": "Employee of the Month",
+		 "grantor": "Boring Books"
+		 "description": "- Did stuff outside of job description"
+	  },
+      {
+         "date": "July 2005",
+         "name": "Principal's List",
+		 "grantor": "Unicorn High School"
+		 "description": "- Earned A's"
+	  }
+	  {
+         "date": "2006",
+         "name": "Intergalactic Leadership Award",
+		 "grantor": "Intergalactic Honor Society"
+		 "description": "- Signed a peace treaty with the Blorgons"
+	  }
+   ]
+   "interests":
+   [
+	  "Eating with my hands",
+      "Not working"
+   ]
 }
